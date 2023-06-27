@@ -2,7 +2,7 @@ This is the summer assignment submitted by Aditya Tiwari of Class 11th "A" (Nava
 
 This code can be used for educational or professional purposes (although I would not suggest using it for professional purposes)
 
-Contact me:
+Connect via:
 
 Mail -> connect.aditya@tuta.io
 
