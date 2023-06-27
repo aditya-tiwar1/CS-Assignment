@@ -5,5 +5,7 @@ This code can be used for educational or professional purposes (although I would
 Contact me:
 
 Mail -> connect.aditya@tuta.io
+
 Instagram -> aditya.tiwar1
+
 GitHub -> aditya-tiwar1
